@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 The website is under construction now!
 
-I am a **senior undergrad** at Xi'an Jiaotong University in the CS Honors Program, currently interning at UW NLP with Tianxing He and Prof. Yulia Tsvetkov. I've exchanged to UC Berkeley, working with Kevin Yang and Prof. Dan Klein within Berkeley NLP. At XJTU, I've be researching with Prof. Xiaoming Liu and Prof. Chao Shen for over two years.
+I am a **senior undergrad** at Xi'an Jiaotong University in the CS Honors Program, currently interning at UW NLP with Tianxing He and Prof. Yulia Tsvetkov. I've exchanged to UC Berkeley, working with Kevin Yang and Prof. Dan Klein within Berkeley NLP. At XJTU, I've worked with Prof. Xiaoming Liu and Prof. Chao Shen for over two years.
 
 My research interests primarily revolve around **machine-generated text detection**, **automatic evaluation**, and **controlled generation** enhancement via my discovery from evaluation in reverse. Additionally, I am actively working on **NLP safety concerns**, i.e., watermarking on LLM, robustness to attacks, extending detection to HCI evaluation, and exploring the **interpretation** of detection.
 
