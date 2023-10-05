@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:   # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Hey! This is Yichen Wang (Zach) from XJTU. # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   #address: >
     # <p>555 your office number</p>
-    # <p>123 your address street</p>
+    # <p>123 your address street</p>s
     # <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
