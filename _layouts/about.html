@@ -43,19 +43,19 @@ layout: default
 
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
-            <h3><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h3>
+            <h3 style="font-weight: bold;"><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h3>
             {%- include news.html limit=true %}
           {%- endif %}
 
           <!-- Latest posts -->
           {% if page.latest_posts -%}
-            <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></h2>
+            <h2 style="font-weight: bold;"><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></h2>
             {%- include latest_posts.html %}
           {%- endif %}
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <h3><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h3>
+            <h3 style="font-weight: bold;"><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h3>
             {%- include selected_papers.html %}
           {%- endif %}
 
