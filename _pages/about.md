@@ -24,7 +24,7 @@ Hey! This is Yichen Wang (Zach 王奕辰) from XJTU.
 
 I am a **senior undergrad** at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in the CS Honors Program, currently interning at [UW NLP](https://www.cs.washington.edu/research/nlp/) with Postdoc [Tianxing He](https://cloudygoose.github.io/) and Prof. [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/). I've exchanged to UC Berkeley, working with Ph.D. [Kevin Yang](https://people.eecs.berkeley.edu/~yangk/) and Prof. [Dan Klein](https://people.eecs.berkeley.edu/~klein/) within [Berkeley NLP](https://nlp.cs.berkeley.edu/). At XJTU, I've been working with Prof. [Xiaoming Liu](https://gr.xjtu.edu.cn/en/web/xm.liu/home) and Prof. [Chao Shen](https://gr.xjtu.edu.cn/en/web/cshen/english) for over two years.
 
-My research interests primarily revolve around **machine-generated text detection**, **automatic evaluation**, and **controlled generation** enhancement via my discovery from evaluation in reverse. Additionally, I am actively working on **NLP safety concerns**, i.e., watermarking on LLM, robustness to attacks, extending detection to HCI evaluation, and exploring the **interpretation** of detection.
+My research interests primarily revolve around **machine-generated text detection**, **automatic evaluation**, and **controlled generation** enhancement via my discovery from evaluation in reverse. Additionally, I am actively working on **NLP safety concerns**, i.e., watermarking on LLM and robustness to attacks, **interpretation** of detection, and evaluation for **human-LLM interaction**.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at *yichenwg[at]gmail[dot]com* !
 
