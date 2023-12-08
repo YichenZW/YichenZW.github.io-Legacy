@@ -20,11 +20,13 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hey! This is Yichen Wang (Zach 王奕辰) from XJTU.
 
+**At EMNLP 2023!**
+
 **I am looking for a Ph.D. position in NLP/HCI/IR😃!**
 
 I am a **senior undergrad** at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) (XJTU) in the CS Honors Program, currently interning at [UW NLP](https://www.cs.washington.edu/research/nlp/) with Postdoc [Tianxing He](https://cloudygoose.github.io/) and Prof. [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/). I've exchanged to UC Berkeley, working with Ph.D. [Kevin Yang](https://people.eecs.berkeley.edu/~yangk/) and Prof. [Dan Klein](https://people.eecs.berkeley.edu/~klein/) within [Berkeley NLP](https://nlp.cs.berkeley.edu/). At XJTU, I've been working with Prof. [Xiaoming Liu](https://gr.xjtu.edu.cn/en/web/xm.liu/home) and Prof. [Chao Shen](https://gr.xjtu.edu.cn/en/web/cshen/english) for over two years. Also, I stay in close contact with Prof. [Minnan Luo](https://gr.xjtu.edu.cn/en/web/minnluo) and Prof. [Xinyu Dai](https://ai.nju.edu.cn/daixinyu/index.htm) ([NLP Lab, Nanjing Univ.](http://nlp.nju.edu.cn/homepage/index.html)).
 
-My research interests primarily revolve around **machine-generated text detection**, **automatic evaluation**, and **controlled generation** enhancement via my discovery from evaluation in reverse. Additionally, I am actively working on **NLP safety concerns**, i.e., watermarking on LLM and robustness to attacks, **interpretation** of detection, and evaluation for **human-LLM interaction**.
+Primarily focused on **machine-generated text detection**, **automatic evaluation** of semantics, and **controlled generation and planning** within the broader NLP field. I am also actively working on **AI safety** concerns, including **watermark** generation and **robustness** to attacks. Beyond these, I hold a keen interest in **agents**, and evaluation and enhancement for **human-LLM interaction**, such as RLHF in **alignment**.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at *yichenwg[at]gmail[dot]com* !
 
