@@ -20,8 +20,6 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hey! This is Yichen Wang (Zach 王奕辰) from XJTU.
 
-**At EMNLP 2023!**
-
 **I am looking for a Ph.D. position in NLP/HCI/IR😃!**
 
 I am a **senior undergrad** at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) (XJTU) in the CS Honors Program, currently interning at [UW NLP](https://www.cs.washington.edu/research/nlp/) with Postdoc [Tianxing He](https://cloudygoose.github.io/) and Prof. [Yulia Tsvetkov](https://homes.cs.washington.edu/~yuliats/). I've exchanged to UC Berkeley, working with Ph.D. [Kevin Yang](https://people.eecs.berkeley.edu/~yangk/) and Prof. [Dan Klein](https://people.eecs.berkeley.edu/~klein/) within [Berkeley NLP](https://nlp.cs.berkeley.edu/). At XJTU, I've been working with Prof. [Xiaoming Liu](https://gr.xjtu.edu.cn/en/web/xm.liu/home) and Prof. [Chao Shen](https://gr.xjtu.edu.cn/en/web/cshen/english) for over two years. Also, I stay in close contact with Prof. [Minnan Luo](https://gr.xjtu.edu.cn/en/web/minnluo) and Prof. [Xinyu Dai](https://ai.nju.edu.cn/daixinyu/index.htm) ([NLP Lab, Nanjing Univ.](http://nlp.nju.edu.cn/homepage/index.html)).
