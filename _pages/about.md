@@ -27,7 +27,7 @@ I am a **senior undergrad** at [Xi'an Jiaotong University](http://en.xjtu.edu.cn
 I am primarily interested in **human-LLM interaction** on evaluation and generation, **planning in controlled generation**, and **LLM safety concerns** (e.g., machine-generated text detection, watermarking, and stress testing). Beyond these, I am also actively exploring **alignment** and **agents**.
 <!-- Primarily focused on **machine-generated text detection**, **automatic evaluation** of semantics, and **controlled generation and planning** within the broader NLP field. I am also actively working on **AI safety** concerns, including **watermark** generation and **robustness** to attacks. Beyond these, I hold a keen interest in **agents**, and evaluation and enhancement for **human-LLM interaction**, such as RLHF in **alignment**. -->
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at *yichenwg[at]gmail[dot]com* ! :clap:
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at *yichenwg[at]gmail[dot]com* ! :wink:
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
