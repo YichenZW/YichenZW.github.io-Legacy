@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Today is the date of birth of this academic website! :star2: :star2: :star2:
+Today is the date of birth of my academic website! :star2: :star2: :star2:
 
 <!-- A simple inline announcement with Markdown emoji! :sparkles: :smile: -->
 <!-- 
